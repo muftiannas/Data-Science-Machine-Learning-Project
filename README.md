@@ -9,4 +9,4 @@ Data Science and Machine Learning Project
 | No. |    Hands-on Experience |            Projects Links                 |       Tools       |
 |---- |   -------------------- |   ------------------------------ |     -------------   |
 |1 |   Machine Learning fo Prediction |   [Telecom Client Churn Prediction](https://github.com/muftiannas/Telecom-Client-Churn-Prediction/blob/main/maching_learning_prediction.ipynb)	 |     Random Forest Classifier, XGBoost, LGBM, Catboost  |
-
+|2 |   Computer Vision	 |   [Predicting the age of a person from a photo](https://github.com/muftiannas/Predicting-The-Age-of-a-Person-from-a-Photo/blob/main/Predictng%20Age%20from%20Photo.ipynb)	 |     Tensfowflow, ImageDataGenerator |
