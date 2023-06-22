@@ -1,10 +1,14 @@
 # Data-Science-Machine-Learning-Project
-Data Science and Machine Learning Project
+
 
 ---
 
 - This is a portfolio of my ongoing and completed data science projects. The table also shows my technical skills and tools used for the projects.
 - The portfolio contains links to current projects in my portfolio and shows my hands-on experience on different areas in Data Science and Machine Learning.
+
+
+---
+Data Science and Machine Learning Project
 
 | No. |    Hands-on Experience |            Projects Links                 |       Tools       |
 |---- |   -------------------- |   ------------------------------ |     -------------   |
@@ -23,10 +27,3 @@ Data Science and Machine Learning Project
 |13 |   Statical Data Analysis	 |   [Analyze Telecom Prepaid Plan](https://github.com/muftiannas/Analyze-Telecom-Prepaid-Plan/blob/main/Analyze%20Telecom%20Prepaid%20Plan.ipynb)	 |    Pyhton, Pandas, Matplotlib, Numpy, Scipy |
 |14 |   Exploratory Data Analysis (EDA)		 |   [Car Sales Ads Analytics](https://github.com/muftiannas/Car-Sales-Analytics/blob/main/Car%20Sales%20Analytics.ipynb)	 |    Pyhton, Pandas, Matplotlib |
 |15 |   Data Preprocessing		 |   [Analyze Debtor's Default Risk](https://github.com/muftiannas/Analyze-Debtor-s-Default-Risk/blob/main/Analyze%20Debtor's%20Default%20Risk.ipynb)	 |    Python, Pandas |
-
-
-
-
-
-
-
